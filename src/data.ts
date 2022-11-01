@@ -68,6 +68,17 @@ export const sample_foods: Food[] =[
     imageUrl: 'assets/food-6.jpg',
     tags: ['FastFood', 'Pizza', 'Lunch'],
   },
+  {
+    id:'7',
+    name: 'Pizzaaaaa',
+    cookTime: '10-20',
+    price: 349,
+    favorite: false,
+    origins: ['italy'],
+    stars: 4.5,
+    imageUrl: 'assets/food-1.jpg',
+    tags: ['FastFood', 'Pizza', 'Lunch'],
+  },
 ]
 
 export const sample_tags: Tag[] = [
